@@ -9,5 +9,8 @@
         case 2:
             FOOD="SALA";
             break;
+        case 3:
+            FOOD="juice";
+            break;
     }
     Console.WriteLine("RANDOM RECOMMENDATION:"+ FOOD +".");
