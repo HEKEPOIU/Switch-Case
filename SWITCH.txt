@@ -12,5 +12,14 @@
         case 3:
             FOOD="juice";
             break;
+	  case 4:
+       	FOOD="meat balls";
+       	break;
+	  case 5:
+        	FOOD="steak";
+        	break;
+        case 6:
+            FOOD="拉麵";
+            break;
     }
     Console.WriteLine("RANDOM RECOMMENDATION:"+ FOOD +".");
